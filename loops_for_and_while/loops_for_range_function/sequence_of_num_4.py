@@ -1,9 +1,9 @@
 m, n = int(input()), int(input())
 
 if m > n:
-    for k in range(m, n - 1, -1):
-        print(k)
+    for j in range(m, n - 1, -1):
+        print(j)
 
 elif n >= m:
-    for k in range(m, n + 1):
-        print(k)
+    for j in range(m, n + 1):
+        print(j)
