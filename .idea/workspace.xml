@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb011b4a-209c-46f0-9779-788151ec3575" name="Changes" comment="2023.02.05" />
+    <list default="true" id="fb011b4a-209c-46f0-9779-788151ec3575" name="Changes" comment="2023.02.05">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios/amount_of_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios/amount_of_num_1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,23 +47,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/e.shamshin/Documents/Python/Project/loops_for_and_while/loops_for_range_function&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/e.shamshin/Documents/Python/Project/loops_for_and_while/frequent_scenarios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\e.shamshin\Documents\Python\Project\loops_for_and_while\frequent_scenarios" />
       <recent name="C:\Users\e.shamshin\Documents\Python\Project\loops_for_and_while\loops_for_range_function" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -71,7 +75,7 @@
       <recent name="C:\Users\e.shamshin\Documents\Python\Project\data_input_output" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.asymptotic_approximation">
+  <component name="RunManager" selected="Python.amount_of_num_2">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="amount_of_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="amount_of_num_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +111,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios/amount_of_num.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\e.shamshin\Documents\Python\Project\loops_for_and_while\frequent_scenarios\amount_of_num_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="amount_of_num_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios/amount_of_num_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,35 +208,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sequence_of_num_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loops_for_and_while/loops_for_range_function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops_for_and_while/loops_for_range_function/sequence_of_num_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.amount_of_num_2" />
         <item itemvalue="Python.asymptotic_approximation" />
-        <item itemvalue="Python.amount_of_num" />
+        <item itemvalue="Python.amount_of_num_1" />
         <item itemvalue="Python.quantity_of_num (1)" />
         <item itemvalue="Python.quantity_of_num" />
-        <item itemvalue="Python.sequence_of_num_3" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +252,7 @@
       <workItem from="1675182987529" duration="14813000" />
       <workItem from="1675362470860" duration="6676000" />
       <workItem from="1675370784506" duration="3085000" />
-      <workItem from="1675518843742" duration="4757000" />
+      <workItem from="1675518843742" duration="7801000" />
     </task>
     <task id="LOCAL-00001" summary="31.01.2023">
       <created>1675186666408</created>
@@ -341,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675547765618</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2023.02.05">
+      <created>1675548404365</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675548404365</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,6 +412,7 @@
     <SUITE FILE_PATH="coverage/Project$repeat_after_me_1.coverage" NAME="repeat_after_me_1 Coverage Results" MODIFIED="1675091994194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_for" />
     <SUITE FILE_PATH="coverage/Project$fraction.coverage" NAME="fraction Coverage Results" MODIFIED="1674508283746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/num_data_types" />
     <SUITE FILE_PATH="coverage/Project$NumBooth.coverage" NAME="NumBooth Coverage Results" MODIFIED="1673288669211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$amount_of_num_2.coverage" NAME="amount_of_num_2 Coverage Results" MODIFIED="1675550278584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios" />
     <SUITE FILE_PATH="coverage/Project$ArithmeticProgression.coverage" NAME="ArithmeticProgression Coverage Results" MODIFIED="1673092839390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$football_team.coverage" NAME="football_team Coverage Results" MODIFIED="1674680723998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/sring_data_type" />
     <SUITE FILE_PATH="coverage/Project$sequence_of_num_2.coverage" NAME="sequence_of_num_2 Coverage Results" MODIFIED="1675365208744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_for_range_function" />
@@ -419,6 +431,7 @@
     <SUITE FILE_PATH="coverage/Project$interesting_num.coverage" NAME="interesting_num Coverage Results" MODIFIED="1674667475297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/num_data_types" />
     <SUITE FILE_PATH="coverage/Project$sequence_of_num_1.coverage" NAME="sequence_of_num_1 Coverage Results" MODIFIED="1675364191762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_for_range_function" />
     <SUITE FILE_PATH="coverage/Project$dog_age.coverage" NAME="dog_age Coverage Results" MODIFIED="1674500800371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/num_data_types" />
+    <SUITE FILE_PATH="coverage/Project$asymptotic_approximation.coverage" NAME="asymptotic_approximation Coverage Results" MODIFIED="1675548307428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios" />
     <SUITE FILE_PATH="coverage/Project$the_star_triangle.coverage" NAME="the_star_triangle Coverage Results" MODIFIED="1675191505171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_for" />
     <SUITE FILE_PATH="coverage/Project$OnlyPlus.coverage" NAME="OnlyPlus Coverage Results" MODIFIED="1673637766766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator" />
     <SUITE FILE_PATH="coverage/Project$Population.coverage" NAME="Population Coverage Results" MODIFIED="1675196799008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_for" />
