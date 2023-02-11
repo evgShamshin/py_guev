@@ -1,4 +1,4 @@
 word = ''
-while (word != 'КОНЕЦ') or (word != 'конец'):
+while (word != 'КОНЕЦ') and (word != 'конец'):
     print(word)
     word = input()
