@@ -1,28 +1,33 @@
-clr.AddReference("RevitServices")
-import RevitServices
+import clr
+
+clr.AddReference('RevitAPI')
+import Autodesk
+from Autodesk.Revit.DB import *
+
+clr.AddReference('RevitServices')
 from RevitServices.Persistence import DocumentManager
 from RevitServices.Transactions import TransactionManager
 
 doc = DocumentManager.Instance.CurrentDBDocument
 
-PAR_KEY_NAME = "ADSK_Тип помещения"
-PAR_OUT_NAME = "ADSK_Этаж"
+def group_by_par_val(rooms, par_name):
+    groups_dict = dict()
+    for room in rooms:
+        room_id = room.Id
+        key = room.LookupParameter(par_name).AsString()
+
+        if key not in groups_dict:
+            groups_dict.update({key: [room]})
+        else:
+            groups_dict[key].append(room)
+    return groups_dict
+
 
 fec = FilteredElementCollector(doc)
 fec.OfCategory(BuiltInCategory.OST_Rooms)
 rooms = fec.ToElements()
 
-groups_dict = dict()
-
-res = list()
-for room in rooms:
-    room_id = room.Id
-    key = room.LookupParameter(PAR_KEY_NAME).AsValueString()
-
-    if key not in groups_dict:
-        groups_dict.update({key: [room]})
-    else:
-        groups_dict[key].append(room)
+groups_dict = group_by_par_val(rooms, IN[0])
 
 TransactionManager.Instance.EnsureInTransaction(doc)
 
@@ -34,9 +39,9 @@ for group in groups_dict.values():
     par_val_str = ", ".join(str(par_val))
 
     for room in group:
-        par = room.LookupParameter(PAR_KEY_NAME)
-        par.Set(PAR_OUT_NAME)
-        res.append(room.LookupParameter(PAR_OUT_NAME).AsString())
+        par = room.LookupParameter(IN[1])
+        par.Set(par_val_str)
+        res.append(room.LookupParameter(IN[1]).AsString())
 
 TransactionManager.Instance.TransactionTaskDone()
 
