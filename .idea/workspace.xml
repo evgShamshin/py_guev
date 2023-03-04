@@ -74,7 +74,7 @@
       <recent name="C:\Users\e.shamshin\Documents\Python\Project\data_input_output" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.digital_root (1)">
+  <component name="RunManager" selected="Python.sum_factorial">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="num_triangle_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sum_factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,7 +198,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops_for_and_while/nested_loops/num_triangle_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops_for_and_while/nested_loops/sum_factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sum_factorial" />
         <item itemvalue="Python.digital_root (1)" />
         <item itemvalue="Python.divisors_1" />
         <item itemvalue="Python.digital_root" />
         <item itemvalue="Python.divisors_2" />
-        <item itemvalue="Python.num_triangle_4" />
       </list>
     </recent_temporary>
   </component>
@@ -265,6 +265,7 @@
       <workItem from="1677438335803" duration="26123000" />
       <workItem from="1677791251547" duration="5717000" />
       <workItem from="1677873997166" duration="6460000" />
+      <workItem from="1677965423065" duration="4826000" />
     </task>
     <task id="LOCAL-00001" summary="31.01.2023">
       <created>1675186666408</created>
@@ -596,6 +597,7 @@
     <SUITE FILE_PATH="coverage/Project$Test.coverage" NAME="Test Coverage Results" MODIFIED="1673285574501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$triangle_area.coverage" NAME="triangle_area Coverage Results" MODIFIED="1674494651084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/num_data_types" />
     <SUITE FILE_PATH="coverage/Project$ArithmeticProgression.coverage" NAME="ArithmeticProgression Coverage Results" MODIFIED="1673092839390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$sum_factorial.coverage" NAME="sum_factorial Coverage Results" MODIFIED="1677969240052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/nested_loops" />
     <SUITE FILE_PATH="coverage/Project$football_team.coverage" NAME="football_team Coverage Results" MODIFIED="1674680723998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/sring_data_type" />
     <SUITE FILE_PATH="coverage/Project$num_triangle_3.coverage" NAME="num_triangle_3 Coverage Results" MODIFIED="1677450649477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/nested_loops" />
     <SUITE FILE_PATH="coverage/Project$TheFewest2Num.coverage" NAME="TheFewest2Num Coverage Results" MODIFIED="1673632908003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator" />
