@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb011b4a-209c-46f0-9779-788151ec3575" name="Changes" comment="2023.03.07">
+    <list default="true" id="fb011b4a-209c-46f0-9779-788151ec3575" name="Changes" comment="2023.03.08">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,36 +67,14 @@
       <recent name="C:\Users\e.shamshin\Documents\Python\Project\loops_for_and_while\loops_for_range_function" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\e.shamshin\Documents\Python\Project\string_data_type" />
       <recent name="C:\Users\e.shamshin\Documents\Python\Project\loops_for_and_while\exam" />
       <recent name="C:\Users\e.shamshin\Documents\Python\Project" />
       <recent name="C:\Users\e.shamshin\Documents\Python\Project\conditional_operator\data_type" />
       <recent name="C:\Users\e.shamshin\Documents\Python\Project\conditional_operator\ choice_of_two" />
-      <recent name="C:\Users\e.shamshin\Documents\Python\Project\conditional_operator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.all_together_2">
-    <configuration name="3_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loops_for_and_while/exam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops_for_and_while/exam/3_num.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.full_name">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="review_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="column_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loops_for_and_while/exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string_data_type/indexing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops_for_and_while/exam/review_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_data_type/indexing/column_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="review_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="column_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,12 +149,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loops_for_and_while/exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string_data_type/indexing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops_for_and_while/exam/review_9.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\e.shamshin\Documents\Python\Project\string_data_type\indexing\column_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="star_frame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="column_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,12 +171,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loops_for_and_while/exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string_data_type/indexing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops_for_and_while/exam/star_frame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_data_type/indexing/column_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="full_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string_data_type/indexing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_data_type/indexing/full_name.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.full_name" />
+        <item itemvalue="Python.column_2" />
+        <item itemvalue="Python.column_1 (1)" />
+        <item itemvalue="Python.column_1" />
         <item itemvalue="Python.all_together_2" />
-        <item itemvalue="Python.3_num" />
-        <item itemvalue="Python.star_frame" />
-        <item itemvalue="Python.review_9" />
-        <item itemvalue="Python.review_8" />
       </list>
     </recent_temporary>
   </component>
@@ -268,6 +268,7 @@
       <workItem from="1677965423065" duration="5105000" />
       <workItem from="1678128440150" duration="7289000" />
       <workItem from="1678218329365" duration="10067000" />
+      <workItem from="1678300945239" duration="3822000" />
     </task>
     <task id="LOCAL-00001" summary="31.01.2023">
       <created>1675186666408</created>
@@ -493,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678220540086</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="2023.03.08">
+      <created>1678300960689</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1678300960689</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,7 +542,8 @@
     <MESSAGE value="2023.02.28" />
     <MESSAGE value="2023.03.05" />
     <MESSAGE value="2023.03.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.03.07" />
+    <MESSAGE value="2023.03.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.03.08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -550,11 +559,11 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Project$Password.coverage" NAME="Password Coverage Results" MODIFIED="1673629137120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_input_output" />
     <SUITE FILE_PATH="coverage/Project$sorting_three.coverage" NAME="sorting_three Coverage Results" MODIFIED="1674666413683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/num_data_types" />
-    <SUITE FILE_PATH="coverage/Project$1.coverage" NAME="1 Coverage Results" MODIFIED="1678222565732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/nested_loops" />
+    <SUITE FILE_PATH="coverage/Project$1.coverage" NAME="column_1 Coverage Results" MODIFIED="1678304606732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_data_type/indexing" />
     <SUITE FILE_PATH="coverage/Project$belonging_3.coverage" NAME="belonging_3 Coverage Results" MODIFIED="1673815887265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/logical_operations" />
     <SUITE FILE_PATH="coverage/Project$color_mixer.coverage" NAME="color_mixer Coverage Results" MODIFIED="1673981123500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/nested_and_cascading_conditions" />
     <SUITE FILE_PATH="coverage/Project$digital_root__1_.coverage" NAME="digital_root (1) Coverage Results" MODIFIED="1677880804689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/nested_loops" />
-    <SUITE FILE_PATH="coverage/Project$all_together_2.coverage" NAME="all_together_2 Coverage Results" MODIFIED="1678229065981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/exam" />
+    <SUITE FILE_PATH="coverage/Project$all_together_2.coverage" NAME="all_together_2 Coverage Results" MODIFIED="1678303138561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/exam" />
     <SUITE FILE_PATH="coverage/Project$New.coverage" NAME="New Coverage Results" MODIFIED="1673292612662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$euclidean_distance.coverage" NAME="euclidean_distance Coverage Results" MODIFIED="1674836336684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_type/math" />
     <SUITE FILE_PATH="coverage/Project$witcher_coin.coverage" NAME="witcher_coin Coverage Results" MODIFIED="1676233250660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_while" />
@@ -570,6 +579,7 @@
     <SUITE FILE_PATH="coverage/Project$NumBooth.coverage" NAME="NumBooth Coverage Results" MODIFIED="1673288669211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$amount_of_num_2.coverage" NAME="amount_of_num_2 Coverage Results" MODIFIED="1675552588585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios" />
     <SUITE FILE_PATH="coverage/Project$sequence_of_num_2.coverage" NAME="sequence_of_num_2 Coverage Results" MODIFIED="1675365208744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_for_range_function" />
+    <SUITE FILE_PATH="coverage/Project$column_1__1_.coverage" NAME="column_1 (1) Coverage Results" MODIFIED="1678304634932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_data_type/indexing" />
     <SUITE FILE_PATH="coverage/Project$quantity_of_num__1_.coverage" NAME="quantity_of_num (1) Coverage Results" MODIFIED="1675546315933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios" />
     <SUITE FILE_PATH="coverage/Project$table_1__1_.coverage" NAME="table_1 (1) Coverage Results" MODIFIED="1676922751001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/nested_loops" />
     <SUITE FILE_PATH="coverage/Project$reverse_order_1__1_.coverage" NAME="reverse_order_1 (1) Coverage Results" MODIFIED="1676397063355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_while_num" />
@@ -577,6 +587,7 @@
     <SUITE FILE_PATH="coverage/Project$Roskomnadzor.coverage" NAME="Roskomnadzor Coverage Results" MODIFIED="1673630624903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator" />
     <SUITE FILE_PATH="coverage/Project$sequence_of_num_3.coverage" NAME="sequence_of_num_3 Coverage Results" MODIFIED="1675370110020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_for_range_function" />
     <SUITE FILE_PATH="coverage/Project$reverse_order_2.coverage" NAME="reverse_order_2 Coverage Results" MODIFIED="1676397285998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_while_num" />
+    <SUITE FILE_PATH="coverage/Project$column_2.coverage" NAME="column_2 Coverage Results" MODIFIED="1678304893173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_data_type/indexing" />
     <SUITE FILE_PATH="coverage/Project$mood_color_blue.coverage" NAME="mood_color_blue Coverage Results" MODIFIED="1674833977849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/sring_data_type" />
     <SUITE FILE_PATH="coverage/Project$min_divisor.coverage" NAME="min_divisor Coverage Results" MODIFIED="1676577208398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/break, continue, else" />
     <SUITE FILE_PATH="coverage/Project$what_s_your_name.coverage" NAME="what's_your_name Coverage Results" MODIFIED="1674678703431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/sring_data_type" />
@@ -600,6 +611,7 @@
     <SUITE FILE_PATH="coverage/Project$character_sequence.coverage" NAME="character_sequence Coverage Results" MODIFIED="1675185967137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_for" />
     <SUITE FILE_PATH="coverage/Project$leap_year.coverage" NAME="leap_year Coverage Results" MODIFIED="1673965460345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/logical_operations" />
     <SUITE FILE_PATH="coverage/Project$rules.coverage" NAME="rules Coverage Results" MODIFIED="1676577517189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/break, continue, else" />
+    <SUITE FILE_PATH="coverage/Project$full_name.coverage" NAME="full_name Coverage Results" MODIFIED="1678305615230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_data_type/indexing" />
     <SUITE FILE_PATH="coverage/Project$only_even_numbers.coverage" NAME="only_even_numbers Coverage Results" MODIFIED="1675713638894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios" />
     <SUITE FILE_PATH="coverage/Project$review_2.coverage" NAME="review_2 Coverage Results" MODIFIED="1676800148509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/code_review" />
     <SUITE FILE_PATH="coverage/Project$three_cities.coverage" NAME="three_cities Coverage Results" MODIFIED="1674682207221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/sring_data_type" />
