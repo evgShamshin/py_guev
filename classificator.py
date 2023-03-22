@@ -218,7 +218,7 @@ def update_answers_book(answers_book, category, words, unique_words, answers, va
             if word is not None and word != "":
                 # Добавить в ключ индекс слова из списка уникальных
                 keys.append(unique_words.index(word))
-    if len(keys) > 1: # Если длина ключа больше 1
+    if len(keys) > 1: # Если длина ключа больше methods_list_1
         keys = frozenset(keys) # Превратить ключи в замороженный набор
     else: # Иначе, если в списке один ключ, то:
         keys = keys[0] # взять из списка его значение

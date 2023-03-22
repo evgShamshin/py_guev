@@ -1,4 +1,4 @@
-mx = -10 ** 7 #1 mx = 0
+mx = -10 ** 7 #methods_list_1 mx = 0
 s = 0
 for _ in range(10): #2 for i in range(11):
     x = int(input())
