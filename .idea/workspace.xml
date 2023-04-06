@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb011b4a-209c-46f0-9779-788151ec3575" name="Changes" comment="2023.03.30">
+    <list default="true" id="fb011b4a-209c-46f0-9779-788151ec3575" name="Changes" comment="2023.03.04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,7 @@
       <recent name="C:\Users\e.shamshin\Documents\Python\Project\conditional_operator\ choice_of_two" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.equal">
+  <component name="RunManager" selected="Python.sort">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="diagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="all_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,12 +110,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list/split, join" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list/methods_list_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/split, join/diagram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/methods_list_2/all_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="min_max" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,12 +154,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list/split, join" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list/methods_list_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/split, join/ip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/methods_list_2/min_max.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="separator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="num_articles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,12 +176,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list/split, join" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list/methods_list_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/split, join/separator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/methods_list_2/num_articles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="windows_os (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,12 +198,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list/split, join" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list/methods_list_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/split, join/windows_os.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/methods_list_2/sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sort" />
+        <item itemvalue="Python.num_articles" />
+        <item itemvalue="Python.min_max" />
+        <item itemvalue="Python.all_2" />
         <item itemvalue="Python.equal" />
-        <item itemvalue="Python.separator" />
-        <item itemvalue="Python.ip" />
-        <item itemvalue="Python.diagram" />
-        <item itemvalue="Python.windows_os (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -297,14 +297,10 @@
       <workItem from="1680115284349" duration="6048000" />
       <workItem from="1680204839739" duration="3091000" />
       <workItem from="1680302691601" duration="935000" />
-      <workItem from="1680447915548" duration="8070000" />
-    </task>
-    <task id="LOCAL-00007" summary="2023.01.31">
-      <created>1675197147614</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1675197147614</updated>
+      <workItem from="1680447915548" duration="8096000" />
+      <workItem from="1680718747988" duration="4062000" />
+      <workItem from="1680769106029" duration="5891000" />
+      <workItem from="1680804819898" duration="3275000" />
     </task>
     <task id="LOCAL-00008" summary="2023.01.31">
       <created>1675197381252</created>
@@ -642,7 +638,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680204860441</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="2023.03.04">
+      <created>1680471319050</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1680471319050</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -663,7 +666,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/loops_for_and_while/loops_for" />
     </ignored-roots>
-    <MESSAGE value="2023.02.09" />
     <MESSAGE value="2023.02.11" />
     <MESSAGE value="2023.02.13" />
     <MESSAGE value="2023.02.14" />
@@ -688,7 +690,8 @@
     <MESSAGE value="Merge remote-tracking branch 'github/master'" />
     <MESSAGE value="2023.03.23" />
     <MESSAGE value="2023.03.30" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.03.30" />
+    <MESSAGE value="2023.03.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.03.04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -786,6 +789,7 @@
     <SUITE FILE_PATH="coverage/Project$list_string.coverage" NAME="list_string Coverage Results" MODIFIED="1679488805676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/methods_list_1" />
     <SUITE FILE_PATH="coverage/Project$first_digit_after_dot.coverage" NAME="first_digit_after_dot Coverage Results" MODIFIED="1674507550581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/num_data_types" />
     <SUITE FILE_PATH="coverage/Project$num_of_members.coverage" NAME="num_of_members Coverage Results" MODIFIED="1676091584343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_while" />
+    <SUITE FILE_PATH="coverage/Project$all_2.coverage" NAME="all_2 Coverage Results" MODIFIED="1680724499475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/methods_list_2" />
     <SUITE FILE_PATH="coverage/Project$sum_of_numbers.coverage" NAME="sum_of_numbers Coverage Results" MODIFIED="1676226416401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_while" />
     <SUITE FILE_PATH="coverage/Project$google_search_1.coverage" NAME="google_search_1 Coverage Results" MODIFIED="1680032925278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/output" />
     <SUITE FILE_PATH="coverage/Project$the_fibonacci_sequence.coverage" NAME="the_fibonacci_sequence Coverage Results" MODIFIED="1675885218337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios" />
@@ -819,6 +823,7 @@
     <SUITE FILE_PATH="coverage/Project$old.coverage" NAME="old Coverage Results" MODIFIED="1677272099006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/nested_loops" />
     <SUITE FILE_PATH="coverage/Project$slice_1.coverage" NAME="slice_1 Coverage Results" MODIFIED="1678743663011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_data_type/slice" />
     <SUITE FILE_PATH="coverage/Project$belonging_1.coverage" NAME="belonging_1 Coverage Results" MODIFIED="1673812871456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/logical_operations" />
+    <SUITE FILE_PATH="coverage/Project$num_articles.coverage" NAME="num_articles Coverage Results" MODIFIED="1680809645677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/methods_list_2" />
     <SUITE FILE_PATH="coverage/Project$only_even_numbers_2.coverage" NAME="only_even_numbers_2 Coverage Results" MODIFIED="1675714472202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios" />
     <SUITE FILE_PATH="coverage/Project$divisors_2.coverage" NAME="divisors_2 Coverage Results" MODIFIED="1677617176500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/nested_loops" />
     <SUITE FILE_PATH="coverage/Project$line_output__1_.coverage" NAME="line_output (1) Coverage Results" MODIFIED="1680207119011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/split, join" />
@@ -835,6 +840,7 @@
     <SUITE FILE_PATH="coverage/Project$slice_2.coverage" NAME="slice_2 Coverage Results" MODIFIED="1678744906920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_data_type/slice" />
     <SUITE FILE_PATH="coverage/Project$equal.coverage" NAME="equal Coverage Results" MODIFIED="1680470489289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/split, join" />
     <SUITE FILE_PATH="coverage/Project$rest.coverage" NAME="rest Coverage Results" MODIFIED="1674834479519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/sring_data_type" />
+    <SUITE FILE_PATH="coverage/Project$sort.coverage" NAME="sort Coverage Results" MODIFIED="1680812427963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/methods_list_2" />
     <SUITE FILE_PATH="coverage/Project$count_of_fives.coverage" NAME="count_of_fives Coverage Results" MODIFIED="1676227853202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_while" />
     <SUITE FILE_PATH="coverage/Project$New__1_.coverage" NAME="New (1) Coverage Results" MODIFIED="1673628628834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_input_output" />
     <SUITE FILE_PATH="coverage/Project$Length.coverage" NAME="Length Coverage Results" MODIFIED="1673283530486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -843,7 +849,7 @@
     <SUITE FILE_PATH="coverage/Project$HelloWorld__1_.coverage" NAME="HelloWorld (1) Coverage Results" MODIFIED="1672403828779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$repeat_after_me_2.coverage" NAME="repeat_after_me_2 Coverage Results" MODIFIED="1675188362416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_for" />
     <SUITE FILE_PATH="coverage/Project$prime_num.coverage" NAME="prime_num Coverage Results" MODIFIED="1678137612380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/nested_loops" />
-    <SUITE FILE_PATH="coverage/Project$min_max.coverage" NAME="min_max Coverage Results" MODIFIED="1674508898484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/num_data_types" />
+    <SUITE FILE_PATH="coverage/Project$min_max.coverage" NAME="min_max Coverage Results" MODIFIED="1680792400427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/methods_list_2" />
     <SUITE FILE_PATH="coverage/Project$new.coverage" NAME="new Coverage Results" MODIFIED="1674419298873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/nested_and_cascading_conditions" />
     <SUITE FILE_PATH="coverage/Project$summ_degrees.coverage" NAME="summ_degrees Coverage Results" MODIFIED="1677443005724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/nested_loops" />
     <SUITE FILE_PATH="coverage/Project$all_together.coverage" NAME="all_together Coverage Results" MODIFIED="1676399708509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_while_num" />
