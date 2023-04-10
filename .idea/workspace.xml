@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fb011b4a-209c-46f0-9779-788151ec3575" name="Changes" comment="2023.04.06">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/list_comprehension/3_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/list_comprehension/3_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/output/google_search_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/output/google_search_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,7 @@
       <recent name="C:\Users\e.shamshin\Documents\Python\Project\conditional_operator\ choice_of_two" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3_str">
+  <component name="RunManager" selected="Python.fallout">
     <configuration name="1_str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fallout" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,12 +178,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list/list_comprehension" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list/methods_list_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/list_comprehension/list_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/methods_list_2/fallout.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="google_search_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,12 +200,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list/list_comprehension" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list/output" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/list_comprehension/list_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/output/google_search_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fallout" />
+        <item itemvalue="Python.google_search_2" />
         <item itemvalue="Python.3_str" />
         <item itemvalue="Python.2_str" />
         <item itemvalue="Python.1_str" />
-        <item itemvalue="Python.list_2" />
-        <item itemvalue="Python.list_1" />
       </list>
     </recent_temporary>
   </component>
@@ -302,6 +304,9 @@
       <workItem from="1680769106029" duration="5891000" />
       <workItem from="1680804819898" duration="3318000" />
       <workItem from="1680857829558" duration="9673000" />
+      <workItem from="1680937581901" duration="3791000" />
+      <workItem from="1681029900539" duration="611000" />
+      <workItem from="1681143400216" duration="4735000" />
     </task>
     <task id="LOCAL-00010" summary="2023.03.02">
       <created>1675409914876</created>
@@ -706,6 +711,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project$fallout.coverage" NAME="fallout Coverage Results" MODIFIED="1681148068025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/methods_list_2" />
     <SUITE FILE_PATH="coverage/Project$Password.coverage" NAME="Password Coverage Results" MODIFIED="1673629137120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_input_output" />
     <SUITE FILE_PATH="coverage/Project$good_shade.coverage" NAME="good_shade Coverage Results" MODIFIED="1678903642366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_data_type/string_methods_1" />
     <SUITE FILE_PATH="coverage/Project$sorting_three.coverage" NAME="sorting_three Coverage Results" MODIFIED="1674666413683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/num_data_types" />
@@ -728,7 +734,7 @@
     <SUITE FILE_PATH="coverage/Project$table_2.coverage" NAME="table_2 Coverage Results" MODIFIED="1676923019277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/nested_loops" />
     <SUITE FILE_PATH="coverage/Project$quadratic_equation.coverage" NAME="quadratic_equation Coverage Results" MODIFIED="1675028097215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_type/math" />
     <SUITE FILE_PATH="coverage/Project$repeat_after_me_1.coverage" NAME="repeat_after_me_1 Coverage Results" MODIFIED="1675091994194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/loops_for" />
-    <SUITE FILE_PATH="coverage/Project$3_str.coverage" NAME="3_str Coverage Results" MODIFIED="1680868013232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/list_comprehension" />
+    <SUITE FILE_PATH="coverage/Project$3_str.coverage" NAME="3_str Coverage Results" MODIFIED="1680946278064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/list_comprehension" />
     <SUITE FILE_PATH="coverage/Project$fraction.coverage" NAME="fraction Coverage Results" MODIFIED="1674508283746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/num_data_types" />
     <SUITE FILE_PATH="coverage/Project$NumBooth.coverage" NAME="NumBooth Coverage Results" MODIFIED="1673288669211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$amount_of_num_2.coverage" NAME="amount_of_num_2 Coverage Results" MODIFIED="1675552588585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios" />
@@ -784,7 +790,7 @@
     <SUITE FILE_PATH="coverage/Project$three_cities.coverage" NAME="three_cities Coverage Results" MODIFIED="1674682207221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/sring_data_type" />
     <SUITE FILE_PATH="coverage/Project$without_null.coverage" NAME="without_null Coverage Results" MODIFIED="1675627275018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/loops_for_and_while/frequent_scenarios" />
     <SUITE FILE_PATH="coverage/Project$arithmetic_strings.coverage" NAME="arithmetic_strings Coverage Results" MODIFIED="1674684708611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/sring_data_type" />
-    <SUITE FILE_PATH="coverage/Project$google_search_2.coverage" NAME="google_search_2 Coverage Results" MODIFIED="1680135149951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/output" />
+    <SUITE FILE_PATH="coverage/Project$google_search_2.coverage" NAME="google_search_2 Coverage Results" MODIFIED="1681144603752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/output" />
     <SUITE FILE_PATH="coverage/Project$str_1.coverage" NAME="str_1 Coverage Results" MODIFIED="1674677681864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/sring_data_type" />
     <SUITE FILE_PATH="coverage/Project$alphabet.coverage" NAME="alphabet Coverage Results" MODIFIED="1679490822470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list/methods_list_1" />
     <SUITE FILE_PATH="coverage/Project$abs.coverage" NAME="abs Coverage Results" MODIFIED="1674662129142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditional_operator/num_data_types" />
