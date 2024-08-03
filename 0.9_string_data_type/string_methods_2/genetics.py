@@ -1,0 +1,5 @@
+s = input()
+print(f'Аденин: {s.count("А") + s.count("а")}')
+print(f'Гуанин: {s.count("Г") + s.count("г")}')
+print(f'Цитозин: {s.count("Ц") + s.count("ц")}')
+print(f'Тимин: {s.count("Т") + s.count("т")}')
